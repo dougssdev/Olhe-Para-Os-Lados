@@ -1,5 +1,5 @@
 //jogador
-let xPlayer = 275
+let xPlayer = 295
 let yPlayer = 340
 let comprimentoPlayer = 20
 let alturaPlayer = 20
